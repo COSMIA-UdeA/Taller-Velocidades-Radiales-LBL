@@ -5,4 +5,4 @@ Este es un reporte de los resultados obtenidos con mediciones del instrumento MA
 masas solares que está siendo orbitada por dos planetas en _near-resonance_. Uno posiblemente siendo una super-Tierra y otro un sub-Neptuno.
 
 
-_Este reporte hace parte de la investigación realizada por Camilo A. Ospinal Achicanoy, Emma Tulterboom y Ryan Cloutier para la pasantía MITACS GRI 2026._
+_Este reporte hace parte de la investigación realizada por Camilo A. Ospinal Achicanoy, Emma Tulterboom y Ryan Cloutier en el marco de la MITACS GRI 2026._
